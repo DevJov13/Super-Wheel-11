@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460422519528",
+    "project_id": "superwheel-31ee2",
+    "storage_bucket": "superwheel-31ee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460422519528:android:d68cc4e2536aded439875d",
+        "android_client_info": {
+          "package_name": "sw.superwheel.fungames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBDrsCRyQ823Po-an2lnUTbxAhMyIql9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

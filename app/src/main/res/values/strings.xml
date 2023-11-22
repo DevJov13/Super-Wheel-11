@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SuperWheel</string>
+    <string name="ca_admob_id">ca-app-pub-9426884596605370~3927411411-</string>
+
+    <string name="ads_small_banner"></string>
+    <string name="ads_large_banner"></string>
+
+</resources>
